@@ -3,11 +3,10 @@ h1 {
     color: lightblue;
     background-color: darkblue;
     padding: 0.5rem;
+    position: sticky;
 }
 
 p {
     position: relative;
     left: 0.5rem;
 }
-
-
